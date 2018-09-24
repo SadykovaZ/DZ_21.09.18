@@ -1,0 +1,11 @@
+10
+0 red 20 penguin 0
+1 white 10 cow 1
+2 black 5 Wilson 130
+0 red 20 vorob 10
+1 white 10 horse 1
+2 black 5 Jack 120
+0 red 20 penguin1 30
+1 white 10 cow2 1
+2 black 5 Rick 130
+2 red 20 fish 50
